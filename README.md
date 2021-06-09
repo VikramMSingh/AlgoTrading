@@ -1,8 +1,8 @@
 # AlgoTrading
 Built over the lockdown while revising statistics concepts. It is a simple algorithm that gives long and short signals using Moving Average. 
-We also use multiple linear regression to predict the open price of a stock in this case (AAPL) and based on it whether we long or short, we also compare the strategy to buy and hold strategy. 
-The data used for the moving average strategy is 6 month daily historical data.
-The data used for the multiple linear regression strategy is 10 year daily historical data
+We also use multiple linear regression to predict the open price of a stock in this case (AAPL) and based on it whether we long or short, we also compare our strategy to the buy and hold strategy. 
+The data used for the moving average is 6 month daily historical data.
+The data used for the multiple linear regression is 10 year daily historical data
 
 To collect data - will collect data for a list of stocks from yfinance: 
 
